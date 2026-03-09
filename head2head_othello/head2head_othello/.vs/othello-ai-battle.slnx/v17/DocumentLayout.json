@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0418F9A-CB70-4845-9F17-27FCE524A8CC}|Othello.AI.Random5.THomas\\Othello.AI.Random5.THomas.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.ai.random5.thomas\\negamaxai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0418F9A-CB70-4845-9F17-27FCE524A8CC}|Othello.AI.Random5.THomas\\Othello.AI.Random5.THomas.csproj|solutionrelative:othello.ai.random5.thomas\\negamaxai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0418F9A-CB70-4845-9F17-27FCE524A8CC}|Othello.AI.Random5.THomas\\Othello.AI.Random5.THomas.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.ai.random5.thomas\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0418F9A-CB70-4845-9F17-27FCE524A8CC}|Othello.AI.Random5.THomas\\Othello.AI.Random5.THomas.csproj|solutionrelative:othello.ai.random5.thomas\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386A8721-8B77-25DA-4E45-4AC9B721C1F6}|Othello.Contract\\Othello.Contract.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.contract\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386A8721-8B77-25DA-4E45-4AC9B721C1F6}|Othello.Contract\\Othello.Contract.csproj|solutionrelative:othello.contract\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386A8721-8B77-25DA-4E45-4AC9B721C1F6}|Othello.Contract\\Othello.Contract.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.contract\\iothelloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386A8721-8B77-25DA-4E45-4AC9B721C1F6}|Othello.Contract\\Othello.Contract.csproj|solutionrelative:othello.contract\\iothelloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386A8721-8B77-25DA-4E45-4AC9B721C1F6}|Othello.Contract\\Othello.Contract.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.contract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386A8721-8B77-25DA-4E45-4AC9B721C1F6}|Othello.Contract\\Othello.Contract.csproj|solutionrelative:othello.contract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386A8721-8B77-25DA-4E45-4AC9B721C1F6}|Othello.Contract\\Othello.Contract.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.contract\\othello.contract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{386A8721-8B77-25DA-4E45-4AC9B721C1F6}|Othello.Contract\\Othello.Contract.csproj|solutionrelative:othello.contract\\othello.contract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4795427D-8AA5-B1BA-35C1-85B67AEB45C1}|Othello.AI.Random1\\Othello.AI.Random1.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.ai.random1\\othello.ai.random1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4795427D-8AA5-B1BA-35C1-85B67AEB45C1}|Othello.AI.Random1\\Othello.AI.Random1.csproj|solutionrelative:othello.ai.random1\\othello.ai.random1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6961DE84-37D8-38E7-D0D8-E30B34269627}|Othello.AI.Random2\\Othello.AI.Random2.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.ai.random2\\othello.ai.random2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6961DE84-37D8-38E7-D0D8-E30B34269627}|Othello.AI.Random2\\Othello.AI.Random2.csproj|solutionrelative:othello.ai.random2\\othello.ai.random2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B24BAC1-79A3-2979-0E18-501225DA6D7A}|Othello.AI.Random3\\Othello.AI.Random3.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.ai.random3\\othello.ai.random3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B24BAC1-79A3-2979-0E18-501225DA6D7A}|Othello.AI.Random3\\Othello.AI.Random3.csproj|solutionrelative:othello.ai.random3\\othello.ai.random3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B4EA4-6CF7-8AC9-F0EB-B574F4F819D9}|Othello.AI.Random4\\Othello.AI.Random4.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.ai.random4\\othello.ai.random4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{128B4EA4-6CF7-8AC9-F0EB-B574F4F819D9}|Othello.AI.Random4\\Othello.AI.Random4.csproj|solutionrelative:othello.ai.random4\\othello.ai.random4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B4EA4-6CF7-8AC9-F0EB-B574F4F819D9}|Othello.AI.Random4\\Othello.AI.Random4.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.ai.random4\\random4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128B4EA4-6CF7-8AC9-F0EB-B574F4F819D9}|Othello.AI.Random4\\Othello.AI.Random4.csproj|solutionrelative:othello.ai.random4\\random4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B24BAC1-79A3-2979-0E18-501225DA6D7A}|Othello.AI.Random3\\Othello.AI.Random3.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.ai.random3\\random3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B24BAC1-79A3-2979-0E18-501225DA6D7A}|Othello.AI.Random3\\Othello.AI.Random3.csproj|solutionrelative:othello.ai.random3\\random3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6961DE84-37D8-38E7-D0D8-E30B34269627}|Othello.AI.Random2\\Othello.AI.Random2.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.ai.random2\\random2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6961DE84-37D8-38E7-D0D8-E30B34269627}|Othello.AI.Random2\\Othello.AI.Random2.csproj|solutionrelative:othello.ai.random2\\random2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4795427D-8AA5-B1BA-35C1-85B67AEB45C1}|Othello.AI.Random1\\Othello.AI.Random1.csproj|c:\\users\\russ4\\onedrive - purdue.edu\\documents\\school\\cgt 390\\new folder\\head2head_othello\\head2head_othello\\othello.ai.random1\\random1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4795427D-8AA5-B1BA-35C1-85B67AEB45C1}|Othello.AI.Random1\\Othello.AI.Random1.csproj|solutionrelative:othello.ai.random1\\random1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Negamaxai.cs",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random5.THomas\\Negamaxai.cs",
+              "RelativeDocumentMoniker": "Othello.AI.Random5.THomas\\Negamaxai.cs",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random5.THomas\\Negamaxai.cs",
+              "RelativeToolTip": "Othello.AI.Random5.THomas\\Negamaxai.cs",
+              "ViewState": "AgIAAGoAAAAA6GVmZuYZwFgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:18:40.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random5.THomas\\Class1.cs",
+              "RelativeDocumentMoniker": "Othello.AI.Random5.THomas\\Class1.cs",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random5.THomas\\Class1.cs",
+              "RelativeToolTip": "Othello.AI.Random5.THomas\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:16:31.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.Contract\\Models.cs",
+              "RelativeDocumentMoniker": "Othello.Contract\\Models.cs",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.Contract\\Models.cs",
+              "RelativeToolTip": "Othello.Contract\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:52:01.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOthelloAI.cs",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.Contract\\IOthelloAI.cs",
+              "RelativeDocumentMoniker": "Othello.Contract\\IOthelloAI.cs",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.Contract\\IOthelloAI.cs",
+              "RelativeToolTip": "Othello.Contract\\IOthelloAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:52:00.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.Contract\\Class1.cs",
+              "RelativeDocumentMoniker": "Othello.Contract\\Class1.cs",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.Contract\\Class1.cs",
+              "RelativeToolTip": "Othello.Contract\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:51:59.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Othello.Contract.csproj",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.Contract\\Othello.Contract.csproj",
+              "RelativeDocumentMoniker": "Othello.Contract\\Othello.Contract.csproj",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.Contract\\Othello.Contract.csproj",
+              "RelativeToolTip": "Othello.Contract\\Othello.Contract.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T18:51:56.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Random1.cs",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random1\\Random1.cs",
+              "RelativeDocumentMoniker": "Othello.AI.Random1\\Random1.cs",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random1\\Random1.cs",
+              "RelativeToolTip": "Othello.AI.Random1\\Random1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:46:43.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Random2.cs",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random2\\Random2.cs",
+              "RelativeDocumentMoniker": "Othello.AI.Random2\\Random2.cs",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random2\\Random2.cs",
+              "RelativeToolTip": "Othello.AI.Random2\\Random2.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:46:42.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Random3.cs",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random3\\Random3.cs",
+              "RelativeDocumentMoniker": "Othello.AI.Random3\\Random3.cs",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random3\\Random3.cs",
+              "RelativeToolTip": "Othello.AI.Random3\\Random3.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:46:41.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Random4.cs",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random4\\Random4.cs",
+              "RelativeDocumentMoniker": "Othello.AI.Random4\\Random4.cs",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random4\\Random4.cs",
+              "RelativeToolTip": "Othello.AI.Random4\\Random4.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T18:36:01.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Othello.AI.Random4.csproj",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random4\\Othello.AI.Random4.csproj",
+              "RelativeDocumentMoniker": "Othello.AI.Random4\\Othello.AI.Random4.csproj",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random4\\Othello.AI.Random4.csproj",
+              "RelativeToolTip": "Othello.AI.Random4\\Othello.AI.Random4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T18:35:57.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Othello.AI.Random3.csproj",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random3\\Othello.AI.Random3.csproj",
+              "RelativeDocumentMoniker": "Othello.AI.Random3\\Othello.AI.Random3.csproj",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random3\\Othello.AI.Random3.csproj",
+              "RelativeToolTip": "Othello.AI.Random3\\Othello.AI.Random3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T18:35:56.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Othello.AI.Random2.csproj",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random2\\Othello.AI.Random2.csproj",
+              "RelativeDocumentMoniker": "Othello.AI.Random2\\Othello.AI.Random2.csproj",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random2\\Othello.AI.Random2.csproj",
+              "RelativeToolTip": "Othello.AI.Random2\\Othello.AI.Random2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T18:35:55.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Othello.AI.Random1.csproj",
+              "DocumentMoniker": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random1\\Othello.AI.Random1.csproj",
+              "RelativeDocumentMoniker": "Othello.AI.Random1\\Othello.AI.Random1.csproj",
+              "ToolTip": "C:\\Users\\russ4\\OneDrive - purdue.edu\\Documents\\School\\CGT 390\\New folder\\head2head_othello\\head2head_othello\\Othello.AI.Random1\\Othello.AI.Random1.csproj",
+              "RelativeToolTip": "Othello.AI.Random1\\Othello.AI.Random1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T18:35:53.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
