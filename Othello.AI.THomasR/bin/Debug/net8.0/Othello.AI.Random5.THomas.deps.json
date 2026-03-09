@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Othello.AI.Random5.THomas/1.0.0": {
+        "dependencies": {
+          "Othello.Contract": "1.0.0"
+        },
+        "runtime": {
+          "Othello.AI.Random5.THomas.dll": {}
+        }
+      },
+      "Othello.Contract/1.0.0": {
+        "runtime": {
+          "Othello.Contract.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Othello.AI.Random5.THomas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Othello.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

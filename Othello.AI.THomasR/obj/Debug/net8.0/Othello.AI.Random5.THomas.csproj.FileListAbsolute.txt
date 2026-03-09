@@ -1,0 +1,15 @@
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\bin\Debug\net8.0\Othello.AI.Random5.THomas.deps.json
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\bin\Debug\net8.0\Othello.AI.Random5.THomas.dll
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\bin\Debug\net8.0\Othello.AI.Random5.THomas.pdb
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\bin\Debug\net8.0\Othello.Contract.dll
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\bin\Debug\net8.0\Othello.Contract.pdb
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\obj\Debug\net8.0\Othello.AI.Random5.THomas.csproj.AssemblyReference.cache
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\obj\Debug\net8.0\Othello.AI.Random5.THomas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\obj\Debug\net8.0\Othello.AI.Random5.THomas.AssemblyInfoInputs.cache
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\obj\Debug\net8.0\Othello.AI.Random5.THomas.AssemblyInfo.cs
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\obj\Debug\net8.0\Othello.AI.Random5.THomas.csproj.CoreCompileInputs.cache
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\obj\Debug\net8.0\Othello..AD36C77C.Up2Date
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\obj\Debug\net8.0\Othello.AI.Random5.THomas.dll
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\obj\Debug\net8.0\refint\Othello.AI.Random5.THomas.dll
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\obj\Debug\net8.0\Othello.AI.Random5.THomas.pdb
+C:\Users\russ4\Downloads\head2head_othello\head2head_othello\Othello.AI.Random5.THomas\obj\Debug\net8.0\ref\Othello.AI.Random5.THomas.dll
